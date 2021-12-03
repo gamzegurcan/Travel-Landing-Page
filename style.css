@@ -1,0 +1,15 @@
+.btn{
+  border-radius:50px;
+}
+
+.card {
+  border-radius:1rem;
+}
+
+.fa-star {
+  font-size: 12px;
+}
+
+.fa-facebook ,.fa-twitter,.fa-map-marker-alt,.fa-water,.fa-camera-retro,.fa-linkedin , .fa-skype{
+  font-size: 23px;
+}
